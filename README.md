@@ -5,7 +5,7 @@ For the last two years I was a Team Leader in an e-commerce company that is the 
 
 ## Tools:
 * [Postman](https://www.postman.com/) - Testing tool for REST API
-* [Jira](https://www.atlassian.com/software/jira0) - Issue tracking and project management tool for developers
+* [Jira](https://www.atlassian.com/pl/software/jira) - Issue tracking and project management tool for developers
 * [MySQL Workbench](https://www.mysql.com/products/workbench/) - MySQL database management and modeling tool
 * [SoapUI](https://www.soapui.org) - Tool for testing Web Services
 * [Slack](https://slack.com) - for communication within the team
