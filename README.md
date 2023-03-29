@@ -37,6 +37,7 @@ For the last two years I was a Team Leader in an e-commerce company that is the 
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
 
 ## My test case examples:
+* [Test cases for site mystore](https://docs.google.com/spreadsheets/d/1JIH07fuCWdKLqlk0-SObWlQsnhVXQ297zoWMuOF-VUM/edit#gid=0)
 
 ## My bug reports:
 
