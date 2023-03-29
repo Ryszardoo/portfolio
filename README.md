@@ -41,4 +41,4 @@ For the last two years I was a Team Leader in an e-commerce company that is the 
 * [Test cases for site apteka-melissa.pl](https://docs.google.com/spreadsheets/d/1hikpnxMj1eKlGxYkbhzUH1gnI6-nngO-Rd1sASgW7bE/edit#gid=0) 
 
 ## My bug reports:
-
+* [Bug report for site apteka-melissa.pl](https://docs.google.com/spreadsheets/d/1O1XSTbtacDs0BPxA9XYmSVoXqkXXIxV723p6ude1Fdk/edit#gid=0)
