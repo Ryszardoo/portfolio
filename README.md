@@ -38,6 +38,7 @@ For the last two years I was a Team Leader in an e-commerce company that is the 
 
 ## My test case examples:
 * [Test cases for site mystore](https://docs.google.com/spreadsheets/d/1JIH07fuCWdKLqlk0-SObWlQsnhVXQ297zoWMuOF-VUM/edit#gid=0)
+* [Test cases for site apteka-melissa.pl](https://docs.google.com/spreadsheets/d/1hikpnxMj1eKlGxYkbhzUH1gnI6-nngO-Rd1sASgW7bE/edit#gid=0) 
 
 ## My bug reports:
 
