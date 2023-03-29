@@ -36,7 +36,6 @@ For the last two years I was a Team Leader in an e-commerce company that is the 
 * [tester.milenabednarczyk.pl](https://tester.milenabednarczyk.pl)
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
 
-
 ## My test case examples:
 
 ## My bug reports:
