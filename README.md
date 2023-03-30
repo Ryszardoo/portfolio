@@ -42,3 +42,4 @@ For the last two years I was a Team Leader in an e-commerce company that is the 
 
 ## My bug reports:
 * [Bug report for site apteka-melissa.pl](https://docs.google.com/spreadsheets/d/1O1XSTbtacDs0BPxA9XYmSVoXqkXXIxV723p6ude1Fdk/edit#gid=0)
+* [Bug report for ceneo/x-komm applications](https://docs.google.com/spreadsheets/d/1VvS068IYttY0ehToSI_dxzg7a1FliAePPk1a2ifFd1E/edit#gid=0) 
