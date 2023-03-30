@@ -22,10 +22,10 @@ For the last two years I was a Team Leader in an e-commerce company that is the 
 * Creating test reports
 
 ## Certificates:
-* [ISTQB® Certified Tester Foundation Level](http://scr.istqb.org) - No. 19974/CTFL/2023
+* [ISTQB® Certified Tester Foundation Level](https://drive.google.com/file/d/1K2yg2wxjDCP5_KK4J3xsJTBOGST75Nzd/view) - No. 19974/CTFL/2023
 
 ## Courses:
-* [CodersLab - Manual Tester](https://coderslab.pl/pl) - No. 100/03/2023
+* [CodersLab - Manual Tester](https://drive.google.com/file/d/1sA42UluIkOugmWgBnayShytZQPgD6-Nr/view) - No. 100/03/2023
 
 ## Books:
 * [Certyfikowany tester ISTQB. Poziom podstawowy ](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d) - Adam Roman, Lucjan Stapp
